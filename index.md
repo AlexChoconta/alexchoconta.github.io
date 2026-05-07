@@ -1,7 +1,6 @@
+---
 layout: home
-
 title: Alex Choconta
-
 ---
 
 # Alex Choconta
