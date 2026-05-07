@@ -1,1 +1,3 @@
-# -alexchoconta.github.io
+# Alex Choconta
+
+Academic website in progress.
