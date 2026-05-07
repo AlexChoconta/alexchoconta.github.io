@@ -3,7 +3,7 @@ layout: home
 title: Alex Choconta
 ---
 
-# Alex Choconta
+
 
 Welcome to my academic website.
 
