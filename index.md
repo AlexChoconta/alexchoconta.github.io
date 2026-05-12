@@ -3,20 +3,20 @@ layout: home
 title: 
 ---
 
-
-
 Welcome to my academic website.
 
-I am a scholar interested in Latin American cultural studies, memory, ruins, extractive modernities, and visual culture.
+I am a scholar working on Latin American cultural studies, capitalist ruins, digital platform infrastructures, visual culture, and affect theories. 
 
-## Research
+My work explores how landscapes, affective infrastructures, and everyday materials carry histories of violence, labor, and survival.
 
-Current projects and publications coming soon.
+## Current Work
 
-## Teaching
+- Dissertation research
+- Teaching and pedagogy
+- Writing on ruins, coffee, and extractive economies
+- Public scholarship and visual analysis
+- Community organizing 
 
-Courses, syllabi, and pedagogical work coming soon.
+## Research Interests
 
-## Writing
-
-Notes, essays, and public scholarship coming soon.
+Latin American Studies • Cultural Theory • Social Media Analysis • Visual Culture • Political Ecology • Feminist Theories
