@@ -9,6 +9,11 @@ I am a scholar working on Latin American cultural studies, capitalist ruins, dig
 
 My work explores how landscapes, affective infrastructures, and everyday materials carry histories of violence, labor, and survival.
 
+
+
+
+
+
 ## Current Work
 
 - Dissertation research
@@ -17,9 +22,16 @@ My work explores how landscapes, affective infrastructures, and everyday materia
 - Public scholarship and visual analysis
 - Community organizing 
 
+
+
+
+
 ## Research Interests
 
 Latin American Studies • Cultural Theory • Social Media Analysis • Visual Culture • Political Ecology • Feminist Theories
+
+
+
 
 
 ## Links
