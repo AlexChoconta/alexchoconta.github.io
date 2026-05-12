@@ -3,7 +3,7 @@ layout: home
 title: 
 ---
 
-Welcome to my academic website.
+Welcome to my academic website! (In progress 👾) 
 
 I am a scholar working on Latin American cultural studies, capitalist ruins, digital platform infrastructures, visual culture, and affect theories. 
 
