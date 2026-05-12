@@ -20,3 +20,8 @@ My work explores how landscapes, affective infrastructures, and everyday materia
 ## Research Interests
 
 Latin American Studies • Cultural Theory • Social Media Analysis • Visual Culture • Political Ecology • Feminist Theories
+
+
+## Links
+
+- [ORCID][(https://orcid.org/0000-0001-7306-2577)]
