@@ -1,10 +1,10 @@
 ---
 layout: default
 
-title: Alex Chocontá
+title: Alexandra Chocontá - Piraquive
 ---
 
-Welcome to my academic website! (In progress 👾) 
+Welcome to my academic website! 
 
 I am a scholar working on Latin American cultural studies, capitalist ruins, digital platform infrastructures, visual culture, and affect theories. 
 
