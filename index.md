@@ -1,6 +1,7 @@
 ---
-layout: home
-title: 
+layout: default
+
+title: Alex Choconta
 ---
 
 Welcome to my academic website! (In progress 👾) 
