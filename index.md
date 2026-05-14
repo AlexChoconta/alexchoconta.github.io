@@ -1,7 +1,7 @@
 ---
 layout: default
 
-title: Alex Choconta
+title: Alex Chocontá
 ---
 
 Welcome to my academic website! (In progress 👾) 
