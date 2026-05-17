@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.page-header {
+    background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/banner.JPG');
+    background-size: cover;
+    background-position: center;
+}
