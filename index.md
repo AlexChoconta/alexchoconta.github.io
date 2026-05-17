@@ -4,11 +4,6 @@ layout: default
 title: Alexandra Chocontá - Piraquive
 ---
 
-## Navigation
-
-- [About](about)
-- [Research](research)
-- [Teaching](teaching)
 
 Welcome to my academic website! 
 
@@ -16,9 +11,11 @@ I am a scholar working on Latin American cultural studies, capitalist ruins, dig
 
 My work explores how landscapes, affective infrastructures, and everyday materials carry histories of violence, labor, and survival. 
 
+## Navigation
 
-
-
+- [About](about)
+- [Research](research)
+- [Teaching](teaching)
 
 
 ## Current Work
