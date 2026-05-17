@@ -4,7 +4,7 @@ layout: default
 title: Alexandra Chocontá - Piraquive
 ---
 
-![Banner](banner.jpg)
+![banner](banner.jpg)
 
 Welcome to my academic website! 
 
