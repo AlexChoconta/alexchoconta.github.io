@@ -14,7 +14,7 @@ title: Publications
 
 ## “Memorial reparation: Women’s work of remembrance, repair and restoration in rural Colombia.”
 *Memory Studies*, 2024.
-<a href="[https://doi.org/xxxxx](https://journals.sagepub.com/doi/full/10.1177/17506980231188482)" target="_blank" rel="noopener noreferrer">Read here</a> 
+<a href="https://journals.sagepub.com/doi/full/10.1177/17506980231188482" target="_blank" rel="noopener noreferrer">Read here</a> 
  
 
 
@@ -25,7 +25,7 @@ title: Publications
 
 ## “Bordando una etnografía: sobre cómo el bordar colectivo afecta la intimidad etnográfica”
 *Debate Feminista*, 2018.
-<a href="https://debatefeminista.cieg.unam.mx/index.php/debate_feminista/article/view/2029)" target="_blank" rel="noopener noreferrer">Read here</a>
+<a href="https://debatefeminista.cieg.unam.mx/index.php/debate_feminista/article/view/2029" target="_blank" rel="noopener noreferrer">Read here</a>
 
 
 ## “Manga yaoi y Fujoshis: exploración de la propia voz del deseo como alternativa al gobierno de la sexualidad juvenil”
@@ -47,7 +47,7 @@ Escenarios del Conflicto, 2020.
 
 ## “A Nation of Entrepreneurial Young Women: Neoliberalism and Girlhood in Post-Accord Colombia.”
 Interdisciplinary Center for the Study of Global Change ICGC, University of Minnesota, 2023.
-<a href="https://mediaspace.umn.edu/media/t/1_ftocurnm" target="_blank" rel="noopener noreferrer">Read here</a>
+<a href="https://mediaspace.umn.edu/media/t/1_ftocurnm" target="_blank" rel="noopener noreferrer">Watch here</a>
 
 
 ---
