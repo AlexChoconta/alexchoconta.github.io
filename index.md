@@ -16,6 +16,7 @@ My work explores how landscapes, affective infrastructures, and everyday materia
 - [About](about)
 - [Research](research)
 - [Teaching](teaching)
+- [Publications](publications)
 
 
 ## Current Work
