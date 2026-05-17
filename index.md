@@ -5,7 +5,7 @@ title: Alexandra Chocontá - Piraquive
 ---
 
 
-Welcome to my academic website! 
+Welcome to my academic website
 
 I am a scholar working on Latin American cultural studies, capitalist ruins, digital platform infrastructures, visual culture, and affect theories. 
 
@@ -22,17 +22,13 @@ My work explores how landscapes, affective infrastructures, and everyday materia
 ## Current Work
 
 - Writing on ruins, coffee, and extractive economies
-- Public scholarship and visual analysis
-- Community organizing 
-
-
-
+- Community organizer in the Twin Cities
+- Intern in Friendly Hmong Farms, Mpls.  
 
 
 ## Research Interests
 
 Latin American Studies • Cultural Theory • Social Media Analysis • Visual Culture • Political Ecology • Girlhood Geographies • Feminist Theories
-
 
 
 
