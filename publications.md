@@ -14,7 +14,8 @@ title: Publications
 
 ## “Memorial reparation: Women’s work of remembrance, repair and restoration in rural Colombia.”
 *Memory Studies*, 2024.
-[Read here](https://journals.sagepub.com/doi/full/10.1177/17506980231188482) 
+<a href="[https://doi.org/xxxxx](https://journals.sagepub.com/doi/full/10.1177/17506980231188482)" target="_blank">Read here</a>
+ 
 
 
 ## “Material encounters between ethnography and design: The case of La Encomienda and its stories of encountering, caring and listening.”
