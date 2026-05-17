@@ -39,3 +39,9 @@ Latin American Studies • Cultural Theory • Social Media Analysis • Visual 
 ## Links
 
 - [ORCID][(https://orcid.org/0000-0001-7306-2577)]
+
+## Navigation
+
+- [About](about)
+- [Research](research)
+- [Teaching](teaching)
