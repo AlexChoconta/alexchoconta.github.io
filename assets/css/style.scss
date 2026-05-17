@@ -8,3 +8,32 @@
     background-size: cover;
     background-position: center;
 }
+/* Softer academic palette */
+
+.page-header {
+    background-color: #2f3e46;
+    background-image: linear-gradient(120deg, #2f3e46, #354f52);
+}
+
+/* Section headings like Publications, Articles, Teaching */
+
+h1 {
+    color: #2f3e46;
+}
+
+h2 {
+    color: #354f52;
+    font-size: 1.4rem;
+}
+
+h3 {
+    color: #52796f;
+    font-size: 1.1rem;
+}
+
+/* Body text */
+
+body {
+    font-size: 17px;
+    line-height: 1.7;
+}
