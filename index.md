@@ -4,6 +4,11 @@ layout: default
 title: Alexandra Chocontá - Piraquive
 ---
 
+## Navigation
+
+- [About](about)
+- [Research](research)
+- [Teaching](teaching)
 
 Welcome to my academic website! 
 
@@ -18,8 +23,6 @@ My work explores how landscapes, affective infrastructures, and everyday materia
 
 ## Current Work
 
-- Dissertation research
-- Teaching and pedagogy
 - Writing on ruins, coffee, and extractive economies
 - Public scholarship and visual analysis
 - Community organizing 
@@ -40,8 +43,3 @@ Latin American Studies • Cultural Theory • Social Media Analysis • Visual 
 
 - [ORCID][(https://orcid.org/0000-0001-7306-2577)]
 
-## Navigation
-
-- [About](about)
-- [Research](research)
-- [Teaching](teaching)
