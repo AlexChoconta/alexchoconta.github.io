@@ -9,18 +9,18 @@ title: Publications
 
 ## “Pedagogías textiles sobre el conflicto armado en Colombia: activismos, trayectorias y transmisión de saberes desde la experiencia de cuatro colectivos de mujeres en Quibdó, Bojayá, Sonsón y María La Baja”
 *Revista de Estudios Sociales*, 2022.
-<a href="https://journals.openedition.org/revestudsoc/51511" target="_blank">Read here</a>
+<a href="https://journals.openedition.org/revestudsoc/51511" target="_blank" rel="noopener noreferrer">Read here</a>
 
 
 ## “Memorial reparation: Women’s work of remembrance, repair and restoration in rural Colombia.”
 *Memory Studies*, 2024.
-<a href="[https://doi.org/xxxxx](https://journals.sagepub.com/doi/full/10.1177/17506980231188482)" target="_blank">Read here</a>
+<a href="[https://doi.org/xxxxx](https://journals.sagepub.com/doi/full/10.1177/17506980231188482)" target="_blank" rel="noopener noreferrer">Read here</a> 
  
 
 
 ## “Material encounters between ethnography and design: The case of La Encomienda and its stories of encountering, caring and listening.”
 *Revista 180*, 2022.
-[Read here](https://revista180.udp.cl/index.php/revista180/article/view/869/486)
+[Read here](https://revista180.udp.cl/index.php/revista180/article/view/869/486)target="_blank" rel="noopener noreferrer">Read here</a>
 
 
 ## “Bordando una etnografía: sobre cómo el bordar colectivo afecta la intimidad etnográfica”
