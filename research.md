@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Research
+title: Alexandra Chocontá Piraquive
 ---
 
 # Research
