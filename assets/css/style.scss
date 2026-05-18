@@ -11,8 +11,9 @@
 /* Softer academic palette */
 
 .page-header {
-    background-color: #2f3e46;
-    background-image: linear-gradient(120deg, #2f3e46, #354f52);
+  background-image: linear-gradient(rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url('/banner.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 /* Section headings like Publications, Articles, Teaching */
