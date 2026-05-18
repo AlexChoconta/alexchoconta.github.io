@@ -22,7 +22,7 @@ My work explores how landscapes, affective infrastructures, and everyday materia
 ## Current Work
 
 - Writing on ruins, coffee, and extractive economies
-- Community organizer in the Twin Cities
+- Research Assistant in the Center of Urban and Regional Affairs CURA, UMN. 
 - Intern in Friendly Hmong Farms, Mpls.  
 
 
